@@ -1,0 +1,16 @@
+BIOMUNDO - AVENTURA DAS CELULAS
+
+1. Extraia todo o ZIP.
+2. Abra a pasta biomundo.
+3. Para experimentar no computador, abra index.html no Chrome/Edge
+   ou use INICIAR-WINDOWS.bat. Mantenha assets, css e js na mesma pasta.
+4. Para testar PWA localmente, use SERVIDOR-LOCAL.bat (Python 3 necessario).
+5. Para celular, publique em HTTPS conforme docs/publicacao.md.
+
+O jogo inclui 8 fases, 38 atividades e 11 estruturas.
+Sem login, cronometro ou vidas. Som e voz comecam desligados.
+
+IMPORTANTE: Android fisico, instalacao PWA, offline real e persistencia
+entre recargas reais ainda precisam de validacao no ambiente de destino.
+Veja README.md, docs/testes.md e docs/relatorio-final.pdf.
+Nenhuma publicacao foi realizada.

@@ -1,0 +1,393 @@
+{
+  "project": "BioMundo - Aventura das Celulas",
+  "version": "1.0.0",
+  "date": "2026-10-09",
+  "self_excluded": "MANIFEST-SHA256.json",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "INICIAR-WINDOWS.bat",
+      "bytes": 57,
+      "sha256": "a4dcb9599eb059aa3463ce592ad2d33862e5e58de18135aba3cfdaf9042f102b"
+    },
+    {
+      "path": "LEIA-ME-PRIMEIRO.txt",
+      "bytes": 719,
+      "sha256": "0ccd8329b8d8038594d256bdcf605eb93d3c7b01e41a5cc74737a4e5b911cead"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9614,
+      "sha256": "423d7f7fc450543a29e4d7821646b7ad6139915feb308967a16476d9f653ca62"
+    },
+    {
+      "path": "SERVIDOR-LOCAL.bat",
+      "bytes": 485,
+      "sha256": "d6b6dfcc9357c76e10578b3ba9fb9367d755c55335e3260e13d411c7a6599c9e"
+    },
+    {
+      "path": "assets/audio/LEIA-ME.md",
+      "bytes": 167,
+      "sha256": "2b67ee1e0dd847978363aec089f96d18493a6b8ac044e8eaba18e82f35c435ec"
+    },
+    {
+      "path": "assets/audio/success.wav",
+      "bytes": 15478,
+      "sha256": "9a771aef7ff208cc675bb6d4a090c2e3dc768b13802696641a866e91b3c81c5b"
+    },
+    {
+      "path": "assets/backgrounds/micro-world.svg",
+      "bytes": 3463,
+      "sha256": "f9766fc1e1d730a7e2d3ef6ac306b5af5fe61261cd0c6733eece4c457f09689c"
+    },
+    {
+      "path": "assets/cells/animal-base.svg",
+      "bytes": 4217,
+      "sha256": "10c826f1f446282f294b354589384639c66e9b7998c10235462289ab6d7a9d1c"
+    },
+    {
+      "path": "assets/cells/animal-complete.svg",
+      "bytes": 11675,
+      "sha256": "f087d9c870d032c09da08f28244ba5017c90f701a8a08297165b2a256ae5dc2c"
+    },
+    {
+      "path": "assets/cells/plant-base.svg",
+      "bytes": 1296,
+      "sha256": "f1c0fe7252833d8e0e759878430de02d743f1fde4d4787e34d09517b474e341c"
+    },
+    {
+      "path": "assets/cells/plant-complete.svg",
+      "bytes": 8493,
+      "sha256": "74b93f13d7ecfaf739d3262417a3829432780ef87686d924aa8202570d494b8c"
+    },
+    {
+      "path": "assets/icons/icon-192.png",
+      "bytes": 19587,
+      "sha256": "8c51a49f26b1d10169c0026c49c5c58895f8fada58006ab517a3e85f7417e199"
+    },
+    {
+      "path": "assets/icons/icon-512.png",
+      "bytes": 55452,
+      "sha256": "e24836a727d43ef7308b2264e32b30c6c9cfaf01fc1638f5d23cd31d9669c836"
+    },
+    {
+      "path": "assets/icons/maskable-512.png",
+      "bytes": 30015,
+      "sha256": "a0ad9aaa410eee6d9c8f7f3b42cdd5aacfa437ef9090698c6b3a3bd72755d3bd"
+    },
+    {
+      "path": "assets/icons/star.svg",
+      "bytes": 761,
+      "sha256": "d5a0730af98e85fa67c64d20a0fe18e67ffe16fb312afd0600aba5264e781cc0"
+    },
+    {
+      "path": "assets/mascot/celebrating.svg",
+      "bytes": 2662,
+      "sha256": "b69705b65fb4fcad89b240757b1ab24f4667cee3a0e9556a8d717cd64d188acf"
+    },
+    {
+      "path": "assets/mascot/encouraging.svg",
+      "bytes": 2439,
+      "sha256": "fd9ccf276e547ca837de0e413b320aa04987614bad6a42dd943b7f51adc6f371"
+    },
+    {
+      "path": "assets/mascot/explaining.svg",
+      "bytes": 2399,
+      "sha256": "b6ede05f050b67dc46ab0e5e1dbf88fd30a915997eb180f6629e4dadb48ba1dc"
+    },
+    {
+      "path": "assets/mascot/happy.svg",
+      "bytes": 2342,
+      "sha256": "b21cf643457a597cf17709ada8bec2c26ac862bf5a20648379eface3a14c2d47"
+    },
+    {
+      "path": "assets/mascot/neutral.svg",
+      "bytes": 2327,
+      "sha256": "5a31770e5edadd0ace984b398df0cf127ee1922d78eb3ecb51a89cf6d61f5588"
+    },
+    {
+      "path": "assets/mascot/thinking.svg",
+      "bytes": 2510,
+      "sha256": "f3f3c92fe2d66606d648e0a8a98dfcb1aaa1e6f115effbb22d4030e55478f4ed"
+    },
+    {
+      "path": "assets/organelles/chloroplast.svg",
+      "bytes": 1804,
+      "sha256": "af855c146da5ec87cb888a6b1314d42cd947d7b1484a624ac1af54840c2994e6"
+    },
+    {
+      "path": "assets/organelles/cytoplasm.svg",
+      "bytes": 1071,
+      "sha256": "42e63924aa4c26e928986d020bc861549ff6713a47364d50ca06fa268fff9047"
+    },
+    {
+      "path": "assets/organelles/golgi.svg",
+      "bytes": 1044,
+      "sha256": "8c8d0c99aff71c7f09fdb9f36098947f0f442b6a2eedc73cfad3099a2d65546c"
+    },
+    {
+      "path": "assets/organelles/lysosome.svg",
+      "bytes": 1221,
+      "sha256": "b8194c4f4b2429cd3136447c22fc7c7b3f528a8868ca86ea5770ddd7e1281f43"
+    },
+    {
+      "path": "assets/organelles/membrane.svg",
+      "bytes": 856,
+      "sha256": "b2a574058de62d584d7f6beff4f763c98d5f2cd50689808e544596ff952b635c"
+    },
+    {
+      "path": "assets/organelles/mitochondrion.svg",
+      "bytes": 1065,
+      "sha256": "2dba86d977f5706f90500dfc8ff75d3f4ee61e4e8014c094623e6f2f664f29e0"
+    },
+    {
+      "path": "assets/organelles/nucleus.svg",
+      "bytes": 1065,
+      "sha256": "454dc2f868bf45d4cde27931dea240ef2ddf90a9aa4628b0a60c0e30fdcc6998"
+    },
+    {
+      "path": "assets/organelles/reticulum.svg",
+      "bytes": 1784,
+      "sha256": "3a2cf60d3957d180a1a7ef144e05876d2706565094f9d31e7108154b21d7cb6b"
+    },
+    {
+      "path": "assets/organelles/ribosome.svg",
+      "bytes": 941,
+      "sha256": "ab51c3cf2ff1c3c3b81c10e845d4883b93922394715d5795c0c8d4cfcd42bcbd"
+    },
+    {
+      "path": "assets/organelles/vacuole.svg",
+      "bytes": 937,
+      "sha256": "c707cc3685adaf821672c3fe4a4c8a521e3cfd6d87f29c17ab3552d07982e252"
+    },
+    {
+      "path": "assets/organelles/wall.svg",
+      "bytes": 1008,
+      "sha256": "106789fb15cf72f405d092d10e959ff4ad5407a2f43cb3105ee6d16b359827a8"
+    },
+    {
+      "path": "assets/references/conceito-aprovado.webp",
+      "bytes": 261852,
+      "sha256": "8f2e288d112a3393de53f0c12be4ac18ec42bff8be4f1996209210cac9d4b1fb"
+    },
+    {
+      "path": "css/accessibility.css",
+      "bytes": 3775,
+      "sha256": "688146b39a389965868e4825b802b6f6c232a9472c1e7a43d66db91c9ef7b54f"
+    },
+    {
+      "path": "css/responsive.css",
+      "bytes": 9566,
+      "sha256": "1e43d8cfd708b70ce7074273216b958dda481ee2bd44422742aef67fecc6da2e"
+    },
+    {
+      "path": "css/style.css",
+      "bytes": 20153,
+      "sha256": "583ff8bedbaa5e4ee7061d16f3c92469ccdf2715fa0c04147de5f764d4ac08f1"
+    },
+    {
+      "path": "docs/acessibilidade.md",
+      "bytes": 2191,
+      "sha256": "78c6d09d7bcfb97b9999ca5ee1f79687c7c981a238fc855a5f685e42efa16dfc"
+    },
+    {
+      "path": "docs/conteudo-educativo.md",
+      "bytes": 3020,
+      "sha256": "91ec01af2bd2610670c5560511cc2a707cb5814d1b876159d8b662271df745d4"
+    },
+    {
+      "path": "docs/declaracao-ia.md",
+      "bytes": 1470,
+      "sha256": "7a118e0a8d2282d230561416fcaa173538e335eeb76a420ac843fe3e5acf7698"
+    },
+    {
+      "path": "docs/fontes.md",
+      "bytes": 1588,
+      "sha256": "114d15f632007d0ed7661fc776413f5441e156aa96c4d0c5e2b7e616dd09ac79"
+    },
+    {
+      "path": "docs/mini-gdd.md",
+      "bytes": 3442,
+      "sha256": "dc3c6f9725c6b3e8244d1c0db19111f4889a340ebc03d9c9a673169ad8434c1b"
+    },
+    {
+      "path": "docs/publicacao.md",
+      "bytes": 2340,
+      "sha256": "ad1f3bf61da4c5d097fd74efb8b7df92a3a0d91e3714123f87e6fe42a294c738"
+    },
+    {
+      "path": "docs/relatorio-final.md",
+      "bytes": 6439,
+      "sha256": "e41778db48e544207b7884b876a247c53d9f298d30c999f3224e2c0b03245129"
+    },
+    {
+      "path": "docs/relatorio-final.pdf",
+      "bytes": 2065543,
+      "sha256": "20baa91420f0e46ff4392c60ac38f88236c97edaf2e624524def3cd2376459d0"
+    },
+    {
+      "path": "docs/testes.md",
+      "bytes": 5148,
+      "sha256": "04200b76cc376e6fd309e1a50849499b54be8e9ee33764806db80ba0e946e8a8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2831,
+      "sha256": "d47c75b0b1795582fa88ad21df068203a8048ec9e7b3f76611a866a050251b42"
+    },
+    {
+      "path": "js/accessibility.js",
+      "bytes": 656,
+      "sha256": "21c66a46f9f3700152255074ae25f3700a09caa6b27e9cf1c41ead384d29e282"
+    },
+    {
+      "path": "js/audio.js",
+      "bytes": 1716,
+      "sha256": "b7bf9d83d48d7779272963b7bbaa38e97992bc3ad020d8fff2fd7b01f6a8c5d7"
+    },
+    {
+      "path": "js/content.js",
+      "bytes": 4806,
+      "sha256": "1b9a9e45983eb25cf999c6c7a49beeec39a2645aceda8a2f77f31825befd6ef9"
+    },
+    {
+      "path": "js/game.js",
+      "bytes": 13081,
+      "sha256": "6430db49f739e674207435a4d7212d8247d4c1c925365ac310ab9dedae42d35d"
+    },
+    {
+      "path": "js/interactions.js",
+      "bytes": 2567,
+      "sha256": "9b4f9ae308a5ac3126c0597a5d82389516d4117f2a6efd22d6bb274bc00066e3"
+    },
+    {
+      "path": "js/levels.js",
+      "bytes": 8146,
+      "sha256": "8c8b343257b266011f9af5fcddf3a97222c8559d4f92d78ab01ff6abf2e1a437"
+    },
+    {
+      "path": "js/main.js",
+      "bytes": 20424,
+      "sha256": "c4464976e269ca33bfc06ad2ca4ebac11c1f2ab7a2becb6c552fc5b3255a57f9"
+    },
+    {
+      "path": "js/progress.js",
+      "bytes": 2994,
+      "sha256": "1551cb5640abfb8e159858aa01c708351a01151ff0e7d7d61fa22414271684bf"
+    },
+    {
+      "path": "link_do_jogo.txt",
+      "bytes": 216,
+      "sha256": "586fc17ec89e370b035675ec832744a2576088af8ae574ceca352f49aad3ccf6"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 866,
+      "sha256": "4779878f860a8b127672d4a65bc87e902f295ea35080f08736d5a43c668ca01d"
+    },
+    {
+      "path": "prints/01-inicio-desktop.png",
+      "bytes": 599671,
+      "sha256": "c96c120586c2a140a145f4feb4a9865ee0dc10adb6de995a96233cc83473a0b7"
+    },
+    {
+      "path": "prints/02-montagem-animal-desktop.png",
+      "bytes": 685850,
+      "sha256": "0ffc50a1f91fbc33a672fa8c57bfdd206a4efffff7273d6ee450ac5dc400142e"
+    },
+    {
+      "path": "prints/03-montagem-animal-celular.png",
+      "bytes": 271295,
+      "sha256": "3e2a81f01169debf306f48ac411965fa5f5e979b8e2dc36ee2cb3770f9620f70"
+    },
+    {
+      "path": "prints/04-mapa-desktop.png",
+      "bytes": 338285,
+      "sha256": "d3b90dd164a3d3a6f980de0942e081f5fb2dcecf34e28d75d4b4e7573faaec34"
+    },
+    {
+      "path": "prints/05-montagem-vegetal-desktop.png",
+      "bytes": 623784,
+      "sha256": "4eae10c6a647c000bc7b2876cb2d08bf59616b8fae67358d70aafa827b6d5e32"
+    },
+    {
+      "path": "prints/06-conclusao-desktop.png",
+      "bytes": 352230,
+      "sha256": "37125cfe0ba68e949f1e84d2e93bdefeea5c4af8befea36c4593f705727434da"
+    },
+    {
+      "path": "prints/07-acessibilidade-desktop.png",
+      "bytes": 293525,
+      "sha256": "98fdd1c552c4244d9442e3bd4d1bf2c9f2f9a56cc18577591862432e7025a0ad"
+    },
+    {
+      "path": "prints/08-montagem-vegetal-celular.png",
+      "bytes": 250371,
+      "sha256": "2cf09673aef1fbc3c0afae3132981d2773b5a410ef0b3cad4a3b741e6718786a"
+    },
+    {
+      "path": "prints/09-modelo-animal-completo-celular.png",
+      "bytes": 246051,
+      "sha256": "1903cd2c8233faf64110815505f891ad081b731cc15bc0872c1ad5b3907dfbec"
+    },
+    {
+      "path": "prints/LEIA-ME.md",
+      "bytes": 632,
+      "sha256": "8628718bdd2ea58805a5367a15d5fc26a67788997cf87780229421f266ce2852"
+    },
+    {
+      "path": "prompts/prompt-mestre.md",
+      "bytes": 18854,
+      "sha256": "211dbc30e1a3e8ec42cc48599fbbe74d2ee9990999434667aae4833c4575a0ab"
+    },
+    {
+      "path": "prompts/registro-de-producao.md",
+      "bytes": 909,
+      "sha256": "b3626a10a75e979a8de9613c6622a68c7dc2e455ac7bc1ea2cefda04510da72a"
+    },
+    {
+      "path": "service-worker.js",
+      "bytes": 2493,
+      "sha256": "253ec160a468ec558ad482230881f4e1a39b2b5bb9168e591cde20e9264c8eaa"
+    },
+    {
+      "path": "tests/browser_test.py",
+      "bytes": 15860,
+      "sha256": "7ae4b3f91d4ede193fbf8fcfd4154ba50c24a914fcf0158dc1e333ed7527873f"
+    },
+    {
+      "path": "tests/resultados-browser.json",
+      "bytes": 6381,
+      "sha256": "e61c4b05e71270257af203a2da5cfaadc39de9627f130ea04d0688acc67d7ffc"
+    },
+    {
+      "path": "tests/resultados-browser.txt",
+      "bytes": 2805,
+      "sha256": "96be6c9aabcd8a20268ce9d6c10b1027df7339bac14791d37fd96d7c3a232a6b"
+    },
+    {
+      "path": "tests/resultados-unitarios.txt",
+      "bytes": 3297,
+      "sha256": "7a1a29edd5282b528557020a042137de07ebc952d3c70ed9c1e1e23737d934e9"
+    },
+    {
+      "path": "tests/unit.test.cjs",
+      "bytes": 7595,
+      "sha256": "6fd9ba738dd4633509b00cb9bfbfecff80cda0f2fba2117fde6922038cd0e553"
+    },
+    {
+      "path": "tools/build_cache.py",
+      "bytes": 1959,
+      "sha256": "8468ba1a2fbcd9e94b8a312d6b04cee72b577b87d2d90e07daa18a142fd7845c"
+    },
+    {
+      "path": "tools/verificar_pacote.py",
+      "bytes": 1151,
+      "sha256": "4af2d5ff889277872b9933240875c526d4b143cde7b653aa590c600c507d5872"
+    }
+  ]
+}

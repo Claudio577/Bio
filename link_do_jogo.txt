@@ -1,0 +1,5 @@
+PUBLICACAO AINDA NAO REALIZADA.
+
+Este pacote nao foi enviado a um servidor ou repositorio.
+Consulte docs/publicacao.md e, depois de publicar, substitua esta mensagem pela URL real.
+Nenhum link publico foi inventado.
